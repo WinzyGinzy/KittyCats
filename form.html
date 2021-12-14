@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Contact Form</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Lato:400,700|Rye"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <div class="sign">
+      <h1>Kitty Cats</h1>
+      <p>A list of cats</p>
+    </div>
+
+    <div class="nav">
+      <a href="index.html" class="button button--secondary"
+        >Return to Homepage</a
+      >
+    </div>
+
+    <div class="featured">
+      <h2>Form</h2>
+      <div>
+        <form action="https://formspree.io/f/mjvlvvdo" method="POST">
+          <input
+            type="hidden"
+            name="_next"
+            value="http://127.0.0.1:5500/form.html"
+          />
+          <div class="form-item">
+            <label for="firstname">First Name:</label>
+            <input type="text" id="firstname" name="firstname" />
+          </div>
+          <div class="form-item">
+            <label for="lastname">Last Name:</label>
+            <input type="text" id="lastname" name="lastname" />
+          </div>
+          <div class="form-item">
+            <label for="ask">Ask anything related to cats:</label>
+            <input type="text" id="ask" name="ask" />
+          </div>
+          <div class="form-item">
+            <input
+              type="submit"
+              value="Submit"
+              class="button button--primary"
+            />
+          </div>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>

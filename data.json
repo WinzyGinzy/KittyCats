@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "title": "Abyssinian",
+    "thumbnailUrl": "img/Abessinier.jpg"
+  },
+  {
+    "id": 2,
+    "title": "American Curl",
+    "thumbnailUrl": "img/American_Curl.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Australian Mist",
+    "thumbnailUrl": "img/Australian_Mist.jpg"
+  },
+  {
+    "id": 4,
+    "title": "American Bobtail",
+    "thumbnailUrl": "img/American_bobtail.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Arabian Mau",
+    "thumbnailUrl": "img/Arabian_Mau.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Aegean",
+    "thumbnailUrl": "img/Aegean_cat.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Asian Semi-longhair",
+    "thumbnailUrl": "img/Asian_Semilonghair.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Bengal",
+    "thumbnailUrl": "img/Bengal_Cat.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Birman",
+    "thumbnailUrl": "img/Birman.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Bombay",
+    "thumbnailUrl": "img/Bombay.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Brazilian Shorthair",
+    "thumbnailUrl": "img/BrazilianShortHair.jpg"
+  },
+  {
+    "id": 12,
+    "title": "British Longhair",
+    "thumbnailUrl": "img/BritishLongHair.jpg"
+  },
+  {
+    "id": 13,
+    "title": "British Shorthair",
+    "thumbnailUrl": "img/BritishShortHair.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Burmilla",
+    "thumbnailUrl": "img/Burmilla.jpg"
+  },
+  {
+    "id": 15,
+    "title": "California Spangled",
+    "thumbnailUrl": "img/California_Spangled.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Chartreux",
+    "thumbnailUrl": "img/Chartreux.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Chausie",
+    "thumbnailUrl": "img/Chausie.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Colorpoint Shorthair",
+    "thumbnailUrl": "img/Colorpoint_shorthair.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Cornish Rex",
+    "thumbnailUrl": "img/Cornish_Rex.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Cyprus",
+    "thumbnailUrl": "img/CyprusShorthair.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Cymric",
+    "thumbnailUrl": "img/Manx_Longhair.JPG"
+  },
+  {
+    "id": 22,
+    "title": "Donskoy Sphynx",
+    "thumbnailUrl": "img/Donskoy_Sphynx.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Devon Rex",
+    "thumbnailUrl": "img/Devon_Rex.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Dragon Li",
+    "thumbnailUrl": "img/Dragon_Li.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Dwelf",
+    "thumbnailUrl": "img/Dwelf.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Desert Lynx",
+    "thumbnailUrl": "img/Desert_Lynx.jpg"
+  },
+  {
+    "id": 27,
+    "title": "European Shorthair",
+    "thumbnailUrl": "img/European_Shorthair.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Exotic Shorthair",
+    "thumbnailUrl": "img/Exotic_Shorthair.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Foldex",
+    "thumbnailUrl": "img/Foldex.jpg"
+  },
+  {
+    "id": 30,
+    "title": "German Rex",
+    "thumbnailUrl": "img/German_Rex.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Highlander",
+    "thumbnailUrl": "img/Highlander.JPG"
+  },
+  {
+    "id": 32,
+    "title": "Himalayan",
+    "thumbnailUrl": "img/Himalayan.jpg"
+  },
+  {
+    "id": 33,
+    "title": "Japanese Bobtail",
+    "thumbnailUrl": "img/Japanese_Bobtail.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Kinkalow",
+    "thumbnailUrl": "img/Kinkalow.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Korat",
+    "thumbnailUrl": "img/Korat.jpg"
+  }
+]
